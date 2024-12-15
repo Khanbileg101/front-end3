@@ -38,7 +38,7 @@ export default function Student() {
   return (
     <div className="min-h-screen bg-gradient-to-r from-blue-100 via-blue-200 to-blue-300 p-8">
       <h1 className="text-4xl font-bold mb-8 text-center text-blue-900 drop-shadow-lg">
-        Ангийн мэдээлэл
+        Ангийн мэйл хаягууд
       </h1>
 
       <div className="mb-8 flex items-center justify-between">
